@@ -1,5 +1,7 @@
 # Welcome to AI-Tools
 
+_Util open-code (free) agent IA -> https://opencode.ai/
+
 **In this repository you will find some tools and important skills can be used on Claude.**
 
 ```
